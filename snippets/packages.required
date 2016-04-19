@@ -1,0 +1,14 @@
+%packages
+@base
+@console-internet
+@core
+@debugging
+@directory-client
+@hardware-monitoring
+@large-systems
+@network-file-system-client
+@performance
+@perl-runtime
+@server-platform
+@server-policy
+cool_custom_package

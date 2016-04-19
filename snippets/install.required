@@ -1,0 +1,4 @@
+install
+url --url http://kickstart.christophermotes.net/repos/<redacted>
+lang en_US.UTF-8
+keyboard us

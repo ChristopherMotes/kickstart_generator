@@ -1,0 +1,4 @@
+firewall --enabled
+authconfig --enableshadow --passalgo=sha1024 --enablefingerprint
+selinux --enabled
+timezone America/NewYork

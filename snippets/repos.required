@@ -1,0 +1,2 @@
+repo --name=internal-repos --baseurl=http://yum.christophermotes.net/repos/internal-repos/6Server/x86_64
+

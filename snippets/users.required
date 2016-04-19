@@ -1,0 +1,4 @@
+rootpw --iscrypted $1$mk3tS1PI$HspT6HcJOOkL4uZAS7nel0
+group --name=puppet --gid=9999
+user --name=puppet --homedir=/var/lib/puppet --shell=/sbin/nologin --uid=9999
+

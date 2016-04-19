@@ -1,0 +1,2 @@
+network --device eth0 --bootproto static --ip IPADDRESS --netmask IPNETMASK  --gateway IPGATEWAY --nameserver 10.10.10.10 --hostname HOSTNAME.priv.christophermotes.net
+network --device eth1 --bootproto static --ip BACKUPIP --netmask BACKUPNETMASK
